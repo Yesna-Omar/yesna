@@ -4,7 +4,6 @@
   You can make this window bigger. 
    ===================
 */
-
 const {
   core: { test, expect, run },
   prettify
@@ -65,4 +64,4 @@ test("There are at least 500 words on the page", () => {
 });
 
 const console = document.getElementById("tests");
-prettify.toHTML(run(), console);
+prettify.toHTML(run(), console);v
