@@ -111,6 +111,34 @@ main{
      top:160%;
      left:37%;
 }
+#p-cyf{
+
+     font-size:28px;
+     color:white; 
+     text-align: center; 
+     font-size:40px; 
+     margin: 0%;
+     position: relative;
+     bottom: -1300pt;
+
+
+}
+#button-cyf{
+     font-size:40px; 
+     margin: 0%;
+     position: relative;
+     left:37%;
+     bottom: -1350pt;
+     color: #fc0a0a;
+     background-color:#FFFFC2;
+}
+#list-cyf{
+     text-align: center; 
+     font-size:40px; 
+     margin: 0%;
+     position: relative;
+     bottom: -1300pt;
+}
 .c-site-footer{
      text-align: center;
      color:#4863A0;
