@@ -55,19 +55,40 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
-
-
-.img-property{
-     border-radius: 10%;
-     height: auto;
-     padding:1%;
+#previous{
+     display: flex;
      margin:auto;
-     position:absolute;
-     top:45%;
-     left:58%;
-     max-width: 75%;
-     max-height: 75%;
+     padding: 1px;
+     position: relative;
+     right: 50ch;
+     top: 77ch;
+     font-size: large;
+     padding: 0.5%;
 }
+    
+#next{
+     display: flex;
+     margin:auto;
+     padding: 1px;
+     position: relative;
+     left: 50ch;
+     top: 400px;
+     font-size: large;
+     padding: 0.5%;
+}
+
+     
+#img-cyf{
+     border-radius: 10%;
+     display: flex;
+     align-items: center;
+     margin:auto;
+     width: 500px;
+     padding: 1px;
+     position: relative;
+     top: 20ch;
+}
+
 main{
      max-width: 80%;
      margin:auto;  
@@ -80,26 +101,25 @@ main{
      color:white;
      position:absolute;
      left:10%;
-     top:220px;
+     top:280px;
 }
 .about-the-course{
-     width:500px;
-     padding:90px;
+     padding:40px;
+     margin:50px;
      text-align:left;
-     font-size:28px;
+     font-size:32px;
      color:white;
 }
 #about-the-course{
-     max-width: 80%;
      position:absolute;
      left:10%;
-     top:650px;
+     top:65ch;
 }
 .video-title{
      color:white;
      padding:0 0 0 10%;
      position:absolute;
-     top:148%;
+     top:180%;
      left:28%;
      font-size:40px;
 }
@@ -108,7 +128,7 @@ main{
      width: 27vw;
      height:25vw;
      position:absolute;
-     top:160%;
+     top:192%;
      left:37%;
 }
 #p-cyf{
