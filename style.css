@@ -86,7 +86,7 @@ a:active { text-decoration: none; }
      width: 500px;
      padding: 1px;
      position: relative;
-     top: 20ch;
+     top: 27ch;
 }
 
 main{
@@ -101,7 +101,18 @@ main{
      color:white;
      position:absolute;
      left:10%;
-     top:280px;
+     top:200px;
+}
+#my-country{
+     padding:40px;
+     margin:50px;
+     text-align:center;
+     font-size:40px;
+     color:white;
+     position:absolute;
+     left:25%;
+     top:480px;
+
 }
 .about-the-course{
      padding:40px;
