@@ -1,6 +1,4 @@
 
-    
-
 body {
     font-family: sans-serif;
     font-size: 30px;
@@ -66,9 +64,9 @@ a:active { text-decoration: none; }
      display: flex;
      margin:auto;
      padding: 1px;
-     position: relative;
-     left: 50ch;
-     top: 400px;
+     position: absolute;
+     right: 43ch;
+     top: 99ch;
      font-size: large;
      padding: 0.5%;
 }
